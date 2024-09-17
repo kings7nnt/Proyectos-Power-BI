@@ -15,7 +15,7 @@ Proyecto de esperanza de vida y mortalidad infantil en diversos paises, con el u
 
 
 # Pokemon API
-Proyecto con datos extraidos desde la PokeAPI, enfocado al correcto manejo de power Query y al consumo de datos de diversas fuentes, ademas del correcto modelado de la informacion y un divertido diseño para mejorar la experiencia de usuario.
+Proyecto con datos extraidos desde la PokeAPI, enfocado al manejo de power Query y al consumo de datos de diversas fuentes, ademas del correcto modelado de la informacion y un divertido diseño para mejorar la experiencia de usuario.
 ![image](https://github.com/user-attachments/assets/ede9fd20-c3a2-4159-b606-d2ff44c5bb5a)
 
 
